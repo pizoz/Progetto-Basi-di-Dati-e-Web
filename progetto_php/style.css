@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 10;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+table, td, th {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 2px;
+    text-align: center;
+}
+a:link, a:visited {
+    color: blue;
+}
+ul, ol {
+    list-style: none;
+    padding: 10;
+}
